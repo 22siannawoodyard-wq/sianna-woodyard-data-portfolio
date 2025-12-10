@@ -63,7 +63,9 @@ It demonstrates how databases support **real-world operational decision-making**
 ---
 
 ## Project Screenshots  
-*(Screenshots shown below illustrate database tables, forms, and reports)*
+### 📘 Book Entry Form
+![Book Entry Form](./forms/book_entry_form.png)
+
 
 - Table Relationships Diagram  
 - Book Entry Form  
@@ -96,3 +98,4 @@ It demonstrates how databases support **real-world operational decision-making**
 ## Summary  
 This project represents a complete **end-to-end database solution** for library operations and reflects hands-on experience with **database systems, automation, and reporting** in a business setting.
 Add Library Management System project
+Embed Book Entry Form screenshot
