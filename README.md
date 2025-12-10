@@ -54,6 +54,6 @@ Performed data cleaning, visualization, and insight generation using real-world 
 ---
 
 ## Contact  
-- LinkedIn: *(add when ready)*  
+- LinkedIn:  
 - GitHub: https://github.com/YOURUSERNAME  
 - Email: 22siannawoodhyard@gmail.com
