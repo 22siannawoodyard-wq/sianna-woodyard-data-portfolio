@@ -102,3 +102,5 @@ It demonstrates how databases support **real-world operational decision-making**
 This project represents a complete **end-to-end database solution** for library operations and reflects hands-on experience with **database systems, automation, and reporting** in a business setting.
 Add Library Management System project
 Embed Book Entry Form screenshot
+Add Member Registration Form screenshot
+
