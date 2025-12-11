@@ -65,6 +65,9 @@ It demonstrates how databases support **real-world operational decision-making**
 ## Project Screenshots  
 ### 📘 Book Entry Form
 ![Book Entry Form](./forms/book_entry_form.png)
+### 👤 Member Registration Form
+![Member Registration Form](./forms/member_registration_form.png)
+
 
 
 - Table Relationships Diagram  
